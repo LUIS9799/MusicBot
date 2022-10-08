@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODUxMTIzNTA4NzEyNzAxOTcy.YLzsiQ.5nnUbGhqtpvOvJTg7TSsPg-ZhW8',
+        token: 'OMG DISCORD IS GOOD :D',
         prefix: '-',
         activity: 'Updating bot..',
     },
